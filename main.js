@@ -1,1 +1,1 @@
-console.log("y entonces como es");
+console.log("hoyyy la vamo a tumba");
