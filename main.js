@@ -1,1 +1,1 @@
-console.log("que onda wey papa");
+console.log("y entonces como es");
